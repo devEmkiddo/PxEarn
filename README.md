@@ -1,2 +1,2 @@
 # PxEarn
-A simple earning website
+Crafted with simplicity, this earning website is coded with Bootstrap and HTML.
