@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa&family=DM+Serif+Display&family=Lora&display=swap');
+
+*{
+    font-family: 'Changa', sans-serif;
+font-family: 'DM Serif Display', serif;
+font-family: 'Lora', serif;
+color: aliceblue;
+}
+
+body{
+    background-color: aliceblue;
+}
+.ht{
+background-color: rgb(30, 6, 168);
+max-width: 700px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+border-radius: 20px;
+}
